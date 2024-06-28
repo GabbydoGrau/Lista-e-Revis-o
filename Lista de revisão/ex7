@@ -1,0 +1,9 @@
+// idae de uma pessoa 
+
+var idadedias = 70.000;
+var idadeanos = idadedias / 365;
+var idademes = idadeanos / 12;
+
+console.log(idadedias)
+console.log(idadeanos)
+console.log(idademes)
