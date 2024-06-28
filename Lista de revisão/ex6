@@ -1,0 +1,9 @@
+// quociente de dois numeros  
+
+var primeironumero = 10;
+var segundonumero = 5; 
+var quociente = 2; 
+
+const divisao = primeironumero / segundonumero;
+
+console.log(divisao)
