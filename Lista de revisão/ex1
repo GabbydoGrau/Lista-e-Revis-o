@@ -1,0 +1,15 @@
+// area
+
+const base1 = 5;
+const altura1 = 2;
+var area = base*altura; 
+
+console.log(area)
+
+// perimetro
+
+const base = 5;
+const altura = 2;
+var primetro = 2*(base + altura)
+
+console.log(perimetro)
