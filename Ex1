@@ -1,7 +1,0 @@
-// area
-
-const base = 5;
-const altura = 7;
-var area = base*altura; 
-
-const.log(area)
