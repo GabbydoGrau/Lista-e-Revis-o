@@ -1,0 +1,16 @@
+// area circulo
+
+const pi1 = 3.14;
+const raio1 = 3/3.14; 
+var area = pi1 * (raio1 * raio1); 
+
+console.log(area) 
+
+// perimetro circulo
+
+const pi = 3.14;
+const raio = 3/3.14;
+var perimetro = (2 * pi * raio);
+
+console.log(perimetro)
+
