@@ -1,0 +1,8 @@
+// perimetro triângulo
+
+const lado1 = 3;
+const lado2 = 3;
+const lado3 = 3;
+var perimetro = lado1 + lado2 + lado3; 
+
+console.log(perimetro)
