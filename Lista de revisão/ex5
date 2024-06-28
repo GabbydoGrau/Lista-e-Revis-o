@@ -1,0 +1,7 @@
+// sucesor de um numero inteiro
+
+var numerointeiro = 7;
+var sucessor = 8; 
+
+console.log(sucessor)
+
