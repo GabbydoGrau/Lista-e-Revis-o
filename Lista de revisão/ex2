@@ -1,0 +1,15 @@
+// area quadrado
+
+const base1 = 5;
+const altura1 = 5;
+var area = base1 * altura1;
+
+console.log(area)
+
+// perimetro quadrado 
+
+const base =5;
+const altura = 5;
+var perimetro = (2 * base) + (2 * altura);
+
+console.log(perimetro)
